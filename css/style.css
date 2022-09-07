@@ -37,3 +37,20 @@
     font-size: 20px;
     font-weight: 700;
 }
+footer {
+    height: 472px;
+    background-color: #161616;
+}
+footer ul li {
+    list-style: none;
+    padding-left: 20px;
+}
+footer ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 23px;
+
+}
+.form-height {
+    height: 300px;
+}
