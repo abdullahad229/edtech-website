@@ -54,3 +54,15 @@ footer ul li a {
 .form-height {
     height: 300px;
 }
+/* media query  */
+/* for mobile devices */
+@media only screen and (max-width: 576px){
+    .trusted-company {
+        display: none;
+    }
+}
+@media only screen and (min-width: 767px) and (max-width: 992px){
+    .trusted-company {
+        display: none;
+    }
+}
